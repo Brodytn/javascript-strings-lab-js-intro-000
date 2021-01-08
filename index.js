@@ -6,5 +6,5 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${greetSpecialGuest} Let\'s talk about ${topic}!`//Hello, Neil deGrasse Tyson! Let's talk about space.
+var conversation = `${greetSpecialGuest} Let\'s talk about ${topic}.`//Hello, Neil deGrasse Tyson! Let's talk about space.
 ;
